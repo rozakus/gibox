@@ -1,0 +1,117 @@
+hotspottime,provinsi,kabupaten,kecamatan,long,lat,satellite,confidence,titik
+2021-04-21 01:30:53,Aceh,Bireuen,Ganda Pura,96.8993454,5.22460365,noaa20,Medium,1
+2021-04-21 00:36:52,Banten,Serang,Cikande,106.3550415,-6.18486023,snpp,Medium,1
+2021-04-21 01:30:53,Banten,Serang,Kibin,106.3157959,-6.18993664,noaa20,Medium,1
+2021-04-21 01:30:53,Di Yogyakarta,Sleman,Pakem,110.44333649,-7.54531145,noaa20,Medium,1
+2021-04-21 01:30:53,Di Yogyakarta,Sleman,Pakem,110.44621277,-7.54569864,noaa20,Medium,1
+2021-04-21 01:30:53,Dki Jakarta,Jakarta Barat,Kembangan,106.75457001,-6.16206646,noaa20,Medium,1
+2021-04-21 11:35:30,Gorontalo,Gorontalo,Bongomeme,122.7849884,0.56346971,snpp,Medium,1
+2021-04-21 11:35:30,Gorontalo,Boalemo,Paguyamanpantai,122.62526703,0.53844398,snpp,Medium,1
+2021-04-21 01:30:53,Jambi,Tanjung Jabung Barat,Tungkalilir,103.3735199,-1.18887115,noaa20,Medium,1
+2021-04-21 01:30:53,Jambi,Tanjung Jabung Barat,Tungkalilir,103.38195801,-1.20384908,noaa20,Medium,1
+2021-04-21 01:30:53,Jambi,Batanghari,Mersam,102.87062836,-1.58582211,noaa20,Medium,1
+2021-04-21 01:30:53,Jambi,Tanjung Jabung Barat,Tungkalulu,103.08599091,-1.31723619,noaa20,Medium,1
+2021-04-21 01:30:53,Jambi,Tanjung Jabung Barat,Tungkalilir,103.35810089,-1.1728102,noaa20,Medium,1
+2021-04-21 00:36:52,Jawa Barat,Bogor,Gunungputri,106.8992157,-6.44458961,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Barat,Karawang,Rawamerta,107.32539368,-6.22102404,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Barat,Karawang,Rengasdengklok,107.32417297,-6.21682835,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Barat,Karawang,Rengasdengklok,107.3261795,-6.21650267,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Barat,Karawang,Rawamerta,107.32873535,-6.21762323,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Barat,Bogor,Gunungputri,106.89998627,-6.43994522,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Barat,Cirebon,Suranenggala,108.51313782,-6.62928867,snpp,Medium,1
+2021-04-21 01:30:53,Jawa Barat,Bogor,Gunungputri,106.90244293,-6.44231844,noaa20,Medium,1
+2021-04-21 01:30:53,Jawa Barat,Bogor,Gunungputri,106.89854431,-6.44174528,noaa20,Medium,1
+2021-04-21 01:30:53,Jawa Barat,Karawang,Rengasdengklok,107.32611084,-6.21611166,noaa20,Medium,1
+2021-04-21 01:30:53,Jawa Barat,Karawang,Rengasdengklok,107.32401276,-6.21751595,noaa20,Medium,1
+2021-04-21 01:30:53,Jawa Barat,Cirebon,Suranenggala,108.51177216,-6.6275177,noaa20,Medium,1
+2021-04-21 00:36:52,Jawa Tengah,Magelang,Dukun,110.44189453,-7.54173613,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Tengah,Magelang,Srumbung,110.44091034,-7.54530907,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Tengah,Batang,Banyuputih,109.95930481,-6.9744525,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Tengah,Klaten,Juwiring,110.76461029,-7.66262722,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Tengah,Klaten,Juwiring,110.76802826,-7.66182947,snpp,Medium,1
+2021-04-21 01:30:53,Jawa Tengah,Klaten,Kemalang,110.44952393,-7.54057598,noaa20,Medium,1
+2021-04-21 01:30:53,Jawa Tengah,Boyolali,Selo,110.4457016,-7.54006529,noaa20,Medium,1
+2021-04-21 01:30:53,Jawa Tengah,Batang,Banyuputih,109.95627594,-6.97699404,noaa20,Medium,1
+2021-04-21 09:44:00,Jawa Tengah,Semarang,Bawen,110.4297790527344,-7.227764129638672,terra,Medium,1
+2021-04-20 23:48:29,Jawa Timur,Mojokerto,Trowulan,112.38793945,-7.57353592,noaa20,Medium,1
+2021-04-21 00:36:52,Jawa Timur,Lumajang,Tempeh,113.19261169,-8.17017841,snpp,Medium,1
+2021-04-21 00:36:52,Jawa Timur,Mojokerto,Trowulan,112.39067841,-7.57611942,snpp,Medium,1
+2021-04-21 09:44:00,Jawa Timur,Mojokerto,Ngoro,112.6045837402344,-7.561465740203857,terra,Medium,1
+2021-04-20 23:48:29,Kalimantan Selatan,Tanahbumbu,Angsana,115.62924194,-3.61732793,noaa20,Medium,1
+2021-04-20 23:48:29,Kalimantan Selatan,Tanahbumbu,Angsana,115.6281662,-3.62355661,noaa20,Medium,1
+2021-04-20 23:48:29,Kalimantan Selatan,Tapin,Lokpaikat,115.23474121,-2.94296551,noaa20,Medium,1
+2021-04-20 23:48:29,Kalimantan Selatan,Tapin,Lokpaikat,115.23159027,-2.94181681,noaa20,Medium,1
+2021-04-21 00:36:52,Kalimantan Selatan,Tanahbumbu,Satui,115.37257385,-3.7940104,snpp,Medium,1
+2021-04-21 00:36:52,Kalimantan Selatan,Tapin,Lokpaikat,115.23414612,-2.94376278,snpp,Medium,1
+2021-04-21 00:36:52,Kalimantan Selatan,Tanahbumbu,Angsana,115.63182068,-3.62487149,snpp,Medium,1
+2021-04-21 00:36:52,Kalimantan Selatan,Tanahbumbu,Angsana,115.63235474,-3.62152553,snpp,Medium,1
+2021-04-21 00:36:52,Kalimantan Selatan,Tanahbumbu,Angsana,115.62831116,-3.62432075,snpp,Medium,1
+2021-04-21 00:36:52,Kalimantan Selatan,Tanahbumbu,Angsana,115.58145905,-3.76611209,snpp,Medium,1
+2021-04-21 00:36:52,Kalimantan Selatan,Tanahbumbu,Kusanhulu,115.62464142,-3.48787737,snpp,Medium,1
+2021-04-21 00:36:52,Kalimantan Tengah,Katingan,Sanaman Mantikei,113.10138702,-1.31996191,snpp,Medium,1
+2021-04-21 00:36:52,Kalimantan Tengah,Barito Utara,Montallat,114.76400757,-1.29269564,snpp,Medium,1
+2021-04-21 00:36:52,Kalimantan Timur,Kutai Kartanegara,Sebilu,116.96458435,-0.31030709,snpp,Medium,1
+2021-04-21 00:36:52,Kalimantan Timur,Kutai Kartanegara,Sebilu,116.96487427,-0.31112874,snpp,Medium,1
+2021-04-21 09:44:00,Kalimantan Timur,Balikpapan,Balikpapan Kota,116.8362655639648,-1.27260422706604,terra,Medium,1
+2021-04-21 09:44:00,Kalimantan Timur,Paser,Tanahgrogot,116.196403503418,-1.916665315628052,terra,Medium,1
+2021-04-21 09:44:00,Kalimantan Timur,Paser,Tanjungharapan,116.4428253173828,-2.358726739883423,terra,Medium,1
+2021-04-21 01:30:53,Lampung,Way Kanan,Pakuan Ratu,104.85282135,-4.27931166,noaa20,Medium,1
+2021-04-21 01:30:53,Lampung,Way Kanan,Negara Batin,104.79634857,-4.35327435,noaa20,Medium,1
+2021-04-21 01:30:53,Lampung,Way Kanan,Negara Batin,104.81316376,-4.31753922,noaa20,Medium,1
+2021-04-21 11:35:30,Maluku,Seram Bagian Barat,Huamual,128.06500244,-3.24328947,snpp,Medium,1
+2021-04-21 11:35:30,Maluku,Seram Bagian Barat,Huamual,128.06446838,-3.23965955,snpp,Medium,1
+2021-04-20 23:48:29,Maluku Utara,Halmahera Selatan,Pulau Makian,127.39807892,0.32422802,noaa20,Medium,1
+2021-04-20 23:48:29,Maluku Utara,Halmahera Selatan,Obi,127.43649292,-1.45531344,noaa20,Medium,1
+2021-04-20 23:48:29,Maluku Utara,Halmahera Tengah,Weda Tengah,127.99310303,0.48199701,noaa20,Medium,1
+2021-04-20 23:48:29,Maluku Utara,Halmahera Selatan,Obi,127.43994904,-1.45585263,noaa20,Medium,1
+2021-04-20 23:48:29,Maluku Utara,Halmahera Selatan,Obi,127.43943024,-1.45915592,noaa20,Medium,1
+2021-04-20 23:48:29,Maluku Utara,Halmahera Selatan,Obi,127.43598938,-1.45861685,noaa20,Medium,1
+2021-04-21 00:22:00,Maluku Utara,Halmahera Selatan,Obi,127.4393081665039,-1.458922028541565,aqua,Medium,1
+2021-04-21 00:36:52,Maluku Utara,Halmahera Selatan,Obi,127.43832397,-1.45876837,snpp,Medium,1
+2021-04-21 11:35:30,Maluku Utara,Halmahera Selatan,Obi,127.4342804,-1.45920694,snpp,Medium,1
+2021-04-21 11:35:30,Maluku Utara,Halmahera Selatan,Obi,127.43769836,-1.45813346,snpp,Medium,1
+2021-04-21 09:44:00,Nusa Tenggara Barat,Sumbawa Barat,Taliwang,116.8535079956055,-8.74422550201416,terra,Medium,1
+2021-04-21 09:44:00,Nusa Tenggara Barat,Sumbawa,Alas,116.9946899414062,-8.520973205566406,terra,Medium,1
+2021-04-20 23:48:29,Nusa Tenggara Timur,Sumba Timur,Pahungalodu,120.64740753,-10.16673183,noaa20,Medium,1
+2021-04-21 00:22:00,Nusa Tenggara Timur,Sumba Timur,Pahungalodu,120.6519241333008,-10.16745662689209,aqua,Medium,1
+2021-04-21 00:36:52,Nusa Tenggara Timur,Sumba Timur,Pahungalodu,120.64849091,-10.17132378,snpp,Medium,1
+2021-04-21 00:36:52,Nusa Tenggara Timur,Sumba Timur,Pahungalodu,120.64322662,-10.17061806,snpp,Medium,1
+2021-04-20 23:48:29,Papua Barat,Telukbintuni,Bintuni,133.85560608,-2.02949667,noaa20,Medium,1
+2021-04-21 11:35:30,Papua Barat,Sorong Selatan,Teminabuan,132.01783752,-1.28374088,snpp,Medium,1
+2021-04-21 01:30:53,Riau,Rokan Hilir,Bagan Sinembah,100.51551819,1.99272859,noaa20,Medium,1
+2021-04-21 01:30:53,Riau,Rokan Hilir,Bagan Sinembah,100.51488495,1.99368095,noaa20,Medium,1
+2021-04-21 01:30:53,Riau,Kampar,Gunung Sahilan,101.23633575,0.11188351,noaa20,Medium,1
+2021-04-21 01:30:53,Riau,Indragiri Hulu,Rengat,102.47898865,-0.48782673,noaa20,Medium,1
+2021-04-21 01:30:53,Riau,Kuantan Singingi,Kuatan Tengah,101.45249939,-0.48293728,noaa20,Medium,1
+2021-04-21 01:30:53,Riau,Kuantan Singingi,Kuatan Mudik,101.41957855,-0.53250188,noaa20,Medium,1
+2021-04-21 01:30:53,Riau,Rokan Hilir,Bagan Sinembah,100.34835052,2.11686611,noaa20,Medium,1
+2021-04-20 23:48:29,Sulawesi Barat,Mamuju Utara,Bambalamotu,119.47331238,-1.08775401,noaa20,Medium,1
+2021-04-20 23:48:29,Sulawesi Barat,Mamuju Utara,Sarudu,119.31078339,-1.70188189,noaa20,Medium,1
+2021-04-20 23:48:29,Sulawesi Barat,Mamuju Utara,Sarudu,119.30924988,-1.70263815,noaa20,Medium,1
+2021-04-21 11:35:30,Sulawesi Barat,Mamuju,Kalumpang,119.60901642,-2.63474345,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Barat,Mamuju,Kalumpang,119.6073761,-2.6330018,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Barat,Mamasa,Pana,119.51780701,-3.00254202,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Barat,Mamuju,Kalumpang,119.59725189,-2.35396695,snpp,Medium,1
+2021-04-20 21:20:00,Sulawesi Tengah,Morowali,Bahodopi,122.1657867431641,-2.830539464950562,terra,Medium,1
+2021-04-20 23:48:29,Sulawesi Tengah,Morowali,Bahodopi,122.16699219,-2.84775853,noaa20,Medium,1
+2021-04-20 23:48:29,Sulawesi Tengah,Morowali,Bahodopi,122.16137695,-2.83429456,noaa20,Medium,1
+2021-04-20 23:48:29,Sulawesi Tengah,Morowali,Bahodopi,122.16557312,-2.83079481,noaa20,Medium,1
+2021-04-21 09:44:00,Sulawesi Tengah,Palu,Mantikulore,119.9786834716797,-0.8487927317619324,terra,High,1
+2021-04-21 09:44:00,Sulawesi Tengah,Tolitoli,Baolan,120.8265075683594,1.04434072971344,terra,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Tojounauna,Ulubongka,121.44308472,-1.08103776,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Sigi,Dolo Selatan,119.89130402,-1.20468867,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Sigi,Dolo Selatan,119.89169312,-1.20377254,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Sigi,Kulawi,119.96399689,-1.39371371,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Sigi,Kulawi,119.9643631,-1.3923943,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Tojounauna,Ulubongka,121.44211578,-1.07972932,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Banggai,Lamala,123.26887512,-1.03841722,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Banggai Kepulauan,Totikum Selatan,123.44371796,-1.4663223,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Donggala,Banawa,119.78929138,-0.8143335,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Donggala,Banawa,119.78965759,-0.81313604,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Parigimoutong,Sidoan,120.14743805,0.23856562,snpp,Medium,1
+2021-04-21 11:35:30,Sulawesi Tengah,Poso,Lore Tengah,120.31607819,-1.60943413,snpp,Medium,1
+2021-04-21 01:30:53,Sumatera Barat,Pesisir Selatan,Pancung Soal,101.08798218,-2.20256066,noaa20,Medium,1
+2021-04-21 00:36:52,Sumatera Selatan,Lahat,Merapi,103.75511932,-3.74244428,snpp,Medium,1
+2021-04-21 00:36:52,Sumatera Selatan,Ogan Komering Ilir,Pampangan,105.28044128,-2.7536869,snpp,Medium,1
+2021-04-21 01:30:53,Sumatera Selatan,Muara Enim,Rambang Dangku,104.03546143,-3.41510057,noaa20,Medium,1
+2021-04-21 01:30:53,Sumatera Selatan,Penukal Abab Lematang Ilir,Talang Ubi,104.00518799,-3.36100292,noaa20,Medium,1
